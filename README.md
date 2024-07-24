@@ -1,8 +1,7 @@
 # Trello_clone
 
 Installation and Usage on Local Machine
-Clone the repo:
-$ git clone https://github.com/vijaygehlot/trello-app-clone.git
+Clone the repo.
 
 Add parameters in order to connect to MySQL on your machine:
 Inside /index.js paste this block of code, change user and password and save the file:
