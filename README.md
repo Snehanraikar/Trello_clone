@@ -13,9 +13,15 @@ var connection = mysql.createConnection({
   password: "<USER_PASSWORD>",
   database: "<DB_NAME>"
 });
+
 Install server-side dependencies:
+
 $ npm install
+
 Build the app:
+
 $ npm run build
+
 Run the server:
+
 $ node index.js
